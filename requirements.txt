@@ -3,3 +3,5 @@ gtts
 speechrecognition
 flask_sqlalchemy
 werkzeug
+flask_cors
+flask_socketio
