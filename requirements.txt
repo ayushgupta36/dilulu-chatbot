@@ -1,0 +1,5 @@
+flask
+gtts
+speechrecognition
+flask_sqlalchemy
+werkzeug
