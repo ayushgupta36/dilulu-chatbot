@@ -6,4 +6,5 @@ werkzeug
 flask_cors
 flask_socketio
 openai==1.97.1
+python-dotenv==1.1.1
 gunicorn==23.0.0
